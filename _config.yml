@@ -1,0 +1,28 @@
+name: The Fee Only Planner
+favicon: null
+layout_spectrum: 0.16251402162015438
+typography_spectrum: 0.2581388964317739
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1815291284583509
+  lightness: 0.850560859311372
+  saturation: 0.5641623819246888
+  rhythmicContrast: 0.8215296412818134
+purpose: []
